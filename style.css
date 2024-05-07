@@ -17,3 +17,8 @@
     margin-top: 10%; 
 }
 
+.box img {
+    width: 360px;
+    height: auto;    
+}
+
