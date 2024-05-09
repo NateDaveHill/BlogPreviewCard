@@ -27,3 +27,23 @@
 .box txtBox {
     align-items: center;
 }
+
+.box .user img {
+    width: 35px;
+    height: 35px;
+}
+
+
+
+
+
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 900
+
+.figtree-<uniquifier> {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
