@@ -9,16 +9,21 @@
 
 .box { 
     margin: auto;
-    width: 384px;
-    height: 522px;
+    width: 344px;
+    height: 482px;
     border: 1px solid black;
     border-radius: 20px;
-    padding: 2px;  
+    padding: 20px;  
     margin-top: 10%; 
+    display: flex;
+    flex-direction: column;
 }
+
 
 .box img {
-    width: 360px;
-    height: auto;    
+    align-items: center;
 }
 
+.box txtBox {
+    align-items: center;
+}
