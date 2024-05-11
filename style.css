@@ -24,12 +24,29 @@
 
 .box img {
     align-items: center;
-    border-radius: 20px;
+    border-radius: 15px;
 
 }
 
-.box txtBox {
+.box .txtBox {
     align-items: center;
+}
+
+.box .txtBox .lineOne {
+    opacity: 1;
+}
+
+.box .txtBox .lineTwo {
+    opacity: 0.5;
+}
+
+.box .txtBox .miniTxtBox {
+    background-color:  hsl(47, 88%, 63%);
+    border-radius: 5px;
+    margin-top: 5%;
+    text-align: center;
+    width: 82px;
+    height: 29px;
 }
 
 .box p {
